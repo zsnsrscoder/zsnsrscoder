@@ -32,3 +32,12 @@ Samostalno gradim svoje projekte, korak po korak, fajl po fajl. Moj kod putuje s
 
 *"Kod po kod – moje carstvo!"* 🚀
 ---
+---
+
+### 📂 Moje Programersko Carstvo (Ostali Projekti)
+
+*   [🍳 zsnsrskuvar / zsnsrs](https://github.com/zsnsrskuvar/zsnsrs)
+    *Interaktivna digitalna umetnost i kulinarstvo spajaju se kroz čist HTML, CSS, JavaScript i SVG kod.*
+
+*   [🎨 zsnsrsart / zsnsrs](https://github.com/zsnsrsart/zsnsrs)
+    *Izložba interaktivne digitalne umetnosti, gde je svaki detalj ručno napisan direktno od nule.*
