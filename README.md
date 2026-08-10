@@ -41,3 +41,20 @@ Samostalno gradim svoje projekte, korak po korak, fajl po fajl. Moj kod putuje s
 
 *   [🎨 zsnsrsart / zsnsrs](https://github.com/zsnsrsart/zsnsrs)
     *Izložba interaktivne digitalne umetnosti, gde je svaki detalj ručno napisan direktno od nule.*
+
+    ---
+    ---
+    ## 📜 Licenca / License
+
+Ovaj projekat je licenciran pod uslovima **MIT licence**. To znači da svako može besplatno da koristi, menja i deli ovaj kod, pod uslovom da zadrži autorsko pravo i potpis autora.
+
+This project is licensed under the **MIT License**.
+
+---
+
+### 🇷🇸 Prevod uslova licence (Informativni pregled)
+
+*   **Dozvoljeno:** Korišćenje koda u komercijalne i nekomercijalne svrhe, menjanje koda i njegovo deljenje.
+*   **Obavezno:** U svim kopijama ili značajnim delovima softvera morate zadržati originalno obaveštenje o autorskim pravima: `Copyright (c) 2026 Zoran Stevanović (zsnsrscoder)`.
+*   **Odricanje odgovornosti:** Kod se isporučuje "kakav jeste", bez ikakve garancije. Autor nije odgovoran za eventualne štete nastale korišćenjem koda.
+
