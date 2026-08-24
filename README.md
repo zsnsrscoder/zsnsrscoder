@@ -73,4 +73,19 @@ Kliknite na link desno da biste otvorili zsnsrskuvar u veb pregledaču:
  👉 <a href="https://zsnsrskuvar.github.io/zsnsrskuvar" target="_blank">**OTVORI zsnsrskuvar UŽIVO**</a>
  ---
  ---
+ <table align="left" style="margin-top: 20px;">
+  <tr>
+    <td>
+      <img src="./style1.webp" width="380" alt="Selfie Style 1" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br />
+      <sub><b>Style 1</b></sub>
+    </td>
+    <td>
+      <img src="./style2.webp" width="380" alt="Selfie Style 2" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br />
+      <sub><b>Style 2</b></sub>
+    </td>
+  </tr>
+</table>
+<br clear="all" />
 
