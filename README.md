@@ -57,4 +57,20 @@ This project is licensed under the **MIT License**.
 *   **Dozvoljeno:** Korišćenje koda u komercijalne i nekomercijalne svrhe, menjanje koda i njegovo deljenje.
 *   **Obavezno:** U svim kopijama ili značajnim delovima softvera morate zadržati originalno obaveštenje o autorskim pravima: `Copyright (c) 2026 Zoran Stevanović (zsnsrscoder)`.
 *   **Odricanje odgovornosti:** Kod se isporučuje "kakav jeste", bez ikakve garancije. Autor nije odgovoran za eventualne štete nastale korišćenjem koda.
+*   ---
+### 🌐 zsnsrsart Sajt Uživo
+
+***Ovaj projekat je uspešno postavljen na GitHub Pages!***
+
+Kliknite na link desno da biste otvorili zsnsrsart u veb pregledaču: 
+👉 <a href="https://zsnsrsart.github.io/zsnsrsart" target="_blank">**OTVORI zsnsrsart UŽIVO**</a>
+---
+### 🌐  zsnsrskuvar Sajt Uživo
+
+***Ovaj projekat je uspešno postavljen na GitHub Pages!***
+
+Kliknite na link desno da biste otvorili zsnsrskuvar u veb pregledaču: 
+ 👉 <a href="https://zsnsrskuvar.github.io/zsnsrskuvar" target="_blank">**OTVORI zsnsrskuvar UŽIVO**</a>
+ ---
+ ---
 
