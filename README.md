@@ -13,6 +13,10 @@
 
 Samostalno gradim svoje projekte, korak po korak, fajl po fajl. Moj kod putuje sa mnom – razvijam ga na mobilnom telefonu, prenosim na računare i stalno ga unapređujem. Sve radim ručno, jer volim da samostalno vodim svaki projekat.
 
+--- 
+
+### 🧰 zsnsrs Je Akronim 
+*  **Nastao Je Od Početnih Slova Sledećih Reči: Zoran Stevanović, Novi Sad, Republika Srbija.
 ---
 
 ### 🧰 Moje Tehnologije i Alati
